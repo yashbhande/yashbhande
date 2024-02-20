@@ -13,9 +13,9 @@
 
 - 👯 I’m looking to collaborate on **open source**
 
-- 👨‍💻 All of my projects are available at [https://codewithyash.in/](https://codewithyash.in/)
+- 👨‍💻 All of my projects are available at [https://codewithyash1.in/](https://codewithyash1.in/)
 
-- 📝 I regularly write articles on [https://codewithyash.in/](https://codewithyash.in/)
+- 📝 I regularly write articles on [https://codewithyash1.in/](https://codewithyash1.in/)
 
 - 📫 How to reach me **bhandeyash.a01@gmail.com**
 
